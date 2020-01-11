@@ -23,6 +23,8 @@
 从 `stdin` 中获得输入，输出到 `stdout` 中。
 ### BrainFuck
 从 `stdin` 中获得输入，输出到 `stdout` 中。**A+B的输入中末尾需要多一个空格。目前仅能处理A,B,A+B均在[0,10)的情况。**
+### Java
+从 `stdin` 中获得输入，输出到 `stdout` 中。
 
 ## 语言标准（如有特殊需求）
 ### BrainFuck
