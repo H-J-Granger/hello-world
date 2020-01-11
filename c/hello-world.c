@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-signed main(signed argc, char** argv) {
+int main(void) {
 	puts("Hello, world!");
 	return 0;
 }

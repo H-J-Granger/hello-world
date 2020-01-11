@@ -15,6 +15,8 @@
 从 `stdin` 中获得输入，输出到 `stdout` 中。
 ### Pascal
 从 `stdin` 中获得输入，输出到 `stdout` 中。
+### Java
+从 `stdin` 中获得输入，输出到 `stdout` 中。
 ### Python2
 从 `stdin` 中获得输入，输出到 `stdout` 中。
 ### Python3

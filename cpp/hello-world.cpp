@@ -1,6 +1,6 @@
 #include <iostream>
 
-signed main(signed argc, char** argv) {
+int main() {
 	std::cout << "Hello, world!" << std::endl;
 	return 0;
 }
