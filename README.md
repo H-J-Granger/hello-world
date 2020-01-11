@@ -17,3 +17,5 @@
 从 `stdin` 中输入，输出到 `stdout` 中。
 ### Pascal
 从 `stdin` 中输入，输出到 `stdout` 中。
+### Python
+从 `stdin` 中输入，输出到 `stdout` 中。
