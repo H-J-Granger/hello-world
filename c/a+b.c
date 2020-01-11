@@ -1,8 +1,7 @@
 #include <stdio.h>
-
-signed main(signed argc, char** argv) {
+int main(void) {
 	int a, b;
 	scanf("%d%d", &a, &b);
-	printf("%d", a + b);
+	printf("%d\n", a + b);
 	return 0;
 }
