@@ -12,10 +12,18 @@
 
 ## 如何输入&输出
 ### C++
-从 `stdin` 中输入，输出到 `stdout` 中。
+从 `stdin` 中获得输入，输出到 `stdout` 中。
 ### C
-从 `stdin` 中输入，输出到 `stdout` 中。
+从 `stdin` 中获得输入，输出到 `stdout` 中。
 ### Pascal
-从 `stdin` 中输入，输出到 `stdout` 中。
-### Python
-从 `stdin` 中输入，输出到 `stdout` 中。
+从 `stdin` 中获得输入，输出到 `stdout` 中。
+### Python2
+从 `stdin` 中获得输入，输出到 `stdout` 中。
+### Python3
+从 `stdin` 中获得输入，输出到 `stdout` 中。
+### BrainFuck
+从 `stdin` 中获得输入，输出到 `stdout` 中。
+
+## 语言标准（如有特殊需求）
+### BrainFuck
+环形内存，空间要求 1KiB。忽略除了 8 个关键字符（`[]+-.,<>`）以外的字符。
